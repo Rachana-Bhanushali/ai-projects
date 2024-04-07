@@ -1,0 +1,16 @@
+crewai==0.11.0
+duckduckgo-search
+python-dotenv
+openai
+streamlit==1.31.1
+langchain-google-genai
+pillow
+google-generativeai
+langchainhub
+langchain-openai
+unstructured
+streamlit-extras
+llama-index
+llama-index-readers-web
+html2text
+streamlit-carousel
